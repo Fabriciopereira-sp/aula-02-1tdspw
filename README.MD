@@ -16,4 +16,4 @@ html-projeto-base/
 │-- style.css   # Estilos CSS
 │-- script.js recursos  # JavaScript (opcional)
 │-- assets/     # Pasta para imagens e outros 
-```
+``` 
